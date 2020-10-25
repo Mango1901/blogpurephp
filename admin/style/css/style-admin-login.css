@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper-login{
+    text-align: center;
+    margin: 100px auto auto 0;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.header-login{
+    font-size:35px;
+    color:red;
+    margin: 20px;
+    padding: 10px;
+    font-weight: 500;
+}
+.form-input{
+    text-decoration: none;
+}
+.label-login{
+    margin: 18px;
+    padding: 12px;
+    font-size: 30px;
+    font-weight: 400;
+    color:red;
+}
+.input-login{
+    padding:25px;
+    margin:10px;
+}
+.submit-button-login{
+    animation: 2s ease;
+    color:red;
+    font-size: 30px;
+}
+.button-login{
+    color:blue;
+    font-size: 30px;
+    padding:15px;
+    margin:10px;
+}
